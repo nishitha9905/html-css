@@ -1,0 +1,300 @@
+#header {
+    background-color: white;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid grey;
+    position: fixed; 
+    width: 100%;
+    top:0px;
+    left:0px;
+    box-shadow: 0 4px 8px rgba(44, 43, 43, 0.2);
+
+    }
+.nav {
+  
+    width: 60%;
+    float:right;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.login{
+    margin-right:10px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+    border:none;
+}
+.start-free{
+    background-color: rgb(4, 208, 48);
+    color:white;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+    border:none;
+    margin-right: 10px;
+}
+.under-div{
+    margin-top:70px;
+}
+.h1-div{
+    text-align: center;
+    margin-top:100px;
+}
+.span-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+    background-color: lavender;
+    margin:auto;
+    border-radius: 30px;
+    width:300px;
+    padding:20px;
+
+}
+.under-div a {
+    text-decoration: none;
+    color:grey;
+}
+#white-button{
+    background-color: white;
+    color:green;
+    font-weight: 500;
+    padding:3px;
+    padding-left: 10px;
+    padding-right:10px;
+    border-radius: 10px;
+}
+.title {
+   
+    width: 60%;
+    float: left;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+   
+}
+.title a{
+    text-decoration: none;
+    color:grey;
+}
+.div-1{
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0,0,0,.1);
+    width:300px;
+    border-radius: 10px;
+    padding:20px;
+}
+.div-1 h1{
+    text-align: center;
+}
+.div-1 p{
+    text-align: center ;
+}
+#monthly{
+    background-color: black;
+    color:white;
+    font-weight: 500;
+    border-radius: 20px;
+    padding:3px;
+    padding-left: 10px;
+    padding-right:10px;
+}
+.main-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+#Yearly{
+    margin-top: 3px;
+}
+.div-1 button{
+    font-weight: bold;
+    background-color: rgb(4, 208, 48);
+    color:white;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+    border:none;
+    margin-left: 100px;
+}
+.div2-h1{
+    text-align: center;
+}
+.card-div{
+    background-color: white;
+    padding:20px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    width:300px;
+    height:300px;
+}
+.card-div a {
+    color:green;
+}
+.display {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-content: flex-end;
+    /* margin-top:100px; */
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.ques-div h3{
+    border-bottom: 1px solid grey;
+    padding:20px;
+
+}
+.freq-asked-questions{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.img-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.reviews {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.suggestions{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+}
+.suggestions-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+
+}
+.suggestions h4{
+    background-color: gainsboro;
+    padding:10px;
+    margin:10px;
+    border-radius: 10px ;
+}
+.img2-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.content-inner-div1{
+    border-bottom: 0.5px solid grey;
+    padding: 30px;
+}
+.content-inner-div1 a {
+    color:green;
+    margin-bottom: 20px;
+}
+.content-inner-div2{
+    padding: 30px;
+}
+.content-inner-div2 button{
+    font-weight: bold;
+    background-color: rgb(4, 208, 48);
+    color:white;
+    border-radius: 20px;
+    padding: 10px;
+    width:120px;
+    cursor: pointer;
+    border:none;
+}
+.last-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #003c2f;
+    background-image: url("https://assets-global.website-files.com/635ac9564cc3682ce1536786/638f45d98fe0830d8223e439_pattern%20(1)%20(1).png");
+    color:white;
+    width:800px;
+    border-radius: 10px;
+    margin:auto;
+}
+.last-div button{
+    font-weight: bold;
+    background-color: rgb(4, 208, 48);
+    color:white;
+    border-radius: 20px;
+    padding: 10px;
+    width:150px;
+    height:40px;
+    cursor: pointer;
+    border:none;
+    margin-top: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.footer-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding:20px;
+    margin-left:50px;
+}
+.footer-copywrite  div{
+    margin-top: 18px;
+}
+.footer-column-heading {
+    font-weight: bold;
+    margin-top: 24px;
+    
+}
+.footer-column-link-container  {
+    text-decoration: none;
+    margin-top: 24px;
+    
+}
+.footer-column-link-container a {
+    text-decoration: none;
+    color:rgb(22, 22, 22);
+}
+.footer-div{
+    display: flex;
+    justify-content: space-between;
+
+}
+.footer-div img{
+    background-color: green;
+    border-radius: 50%;
+    margin: 10px;
+}
+.author-rights{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 12px;
+    color:grey;
+}
+.last-div2{
+    font-size: 11px;
+    color:grey;
+}
