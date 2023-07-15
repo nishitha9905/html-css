@@ -1,0 +1,26 @@
+I have done the total project with html and css 
+all the style like flex box and content box has been used as per requirement
+Appbar
+Intially appbar has been fixed with the help of position attribute and given all require styles like box shadow padding margin etc
+cards section
+coming to cards section it has been designed with the help of pure css like box shadow flexbox padding border styles
+frequently asked question
+in the frequently asked question i have taken the similar image from the given link and used flexbox styles to appear as such
+reviews section
+heading was return with the help of header tag and took similar rating images as given in the site
+suggestions 
+this section has been divided into four parts as shown in the given link there are four rows and used flexbox styles accordingly for every row
+chat bot 
+in the chat bot section the left chat support image was taken from the given site and the similar text was written in written in right then used flex box styles to arrange them as per requirement
+start free trail now
+in the final section the background was designed with the required color and image was also used to get the similarity of the given ui 
+footer section
+footer section was divided in to two parts
+one for navigation of the different sites and the other copy rights declaration 
+the part which ois used for navigation of the different sites is divided into four parts and used flex box concepts to acheive the ui similarity
+
+
+github link
+
+video link -- './video.mp4'
+
